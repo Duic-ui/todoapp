@@ -1,0 +1,4 @@
+// filepath: c:\Users\Duc.Vo\Desktop\NURTURE da FUTURE\Self-study\react\ToDoApp\todoapp\.gitignore
+node_modules/
+dist/
+.cache/
