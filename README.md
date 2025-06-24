@@ -1,5 +1,5 @@
 # TO-DO-APP
-A simple project developed based on learning react on youtube hehe
+A simple project developed based on learning react on youtube huhu
 
 ## Technology
 #### React
